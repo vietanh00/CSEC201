@@ -1,0 +1,3 @@
+C:\Users\vieta\Desktop\csec201prog\w8\client\client\Debug\client.exe
+C:\Users\vieta\Desktop\csec201prog\assignment8-an5208\client\client\Debug\client.exe
+C:\Users\vieta\Desktop\csec201prog\assignment8-an5208 (windows prog)\client\client\Debug\client.exe

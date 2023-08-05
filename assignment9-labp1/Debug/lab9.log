@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (lab9.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  part1.c
+C:\Users\vieta\Desktop\csec201prog\assignment9-an5208\lab9\part1.c(9,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lab9.vcxproj -> C:\Users\vieta\Desktop\csec201prog\assignment9-an5208\lab9\Debug\lab9p1.exe
